@@ -81,7 +81,6 @@ html{
 .container .right-container .search-bar .search-logo{
     width: 30px;
     height: 100%;
-    /* background-color: rgb(0, 255, 157); */
     border-radius: 10px 0 0 10px ;
     align-items: center;
     display: flex;
@@ -97,9 +96,7 @@ html{
 .container .right-container .search-bar .search-box{
     width: 170px;
     height: 100%;
-    /* background-color: coral; */
     display: flex;
-    /* border-radius: 0 10px 10px 0; */
 
 }
 
@@ -122,7 +119,7 @@ html{
     height: 25px;
     border-radius: 10px;
     margin: 0 30px;
-    /* padding: 0 5px; */
+
 }
 
 .container .right-container .button-order button{
@@ -159,10 +156,8 @@ html{
 .bread-that{
     width: 95%;
     height: 400px;
-    /* overflow: hidden; */
     margin: auto;
     background-color: #58ad7089;
-    /* position: relative; */
     display: flex;
     border-radius:  0 0 10px 10px;
     z-index: 99;
@@ -171,7 +166,6 @@ html{
 .bread-that .bread-title{
     width: 50%;
     height: 100%;
-    /* background-color: blue; */
 }
 
 .bread-that .bread-title .text-title{
@@ -205,7 +199,6 @@ html{
 }
 
 .bread-that .bread-title .text-title .btn-title{
-   /* background-color: red; */
     width: 250px;
 }
 .bread-that .bread-title .text-title  button {
@@ -266,13 +259,11 @@ html{
     width: 33.3%;
     height: 230px;
     display: flex;
-    /* background-color: blue; */
 }
 
 .quality-standard .quality-standards .logo{
     width: 50%;
     height: 100%;
-    /* background-color: coral; */
     display: grid;
     place-items: center;
 }
@@ -281,7 +272,6 @@ html{
     display: flex;
     width: 50%;
     height: 100%;
-    /* background-color: red; */
     display: grid;
     place-items: center;
 }
@@ -297,17 +287,14 @@ html{
    margin: -40px 0 0 10px;
    font-family: sans-serif;
    color: #0D1C11;
-   /* text-align: center; */
 }
 
 /* new */
 
 .new{
     width: 95%;
-    /* overflow: hidden; */
     height: 300px;
     margin: 20px auto;
-    /* background-color: red; */
     display: flex;
 }
 
@@ -355,7 +342,6 @@ html{
 .new .box-bread  .image{
     width: 80%;
     height: 60%;
-    /* background-color: #0D1C11; */
     margin: 20px auto;
 }
 
@@ -415,7 +401,6 @@ html{
 .ingredients{
     width: 95%;
     overflow: hidden;
-    /* background-color: cadetblue; */
     display: flex;
     margin: 20px auto;
     gap: 20px;
@@ -471,8 +456,6 @@ html{
 .ingredients .left-ingredients .left-ingredients-img{
     width: 35%;
     height: 100%;
-    /* background-color: #E07545; */
-    /* display: flex; */
     display: grid;
     place-items: center;
 }
@@ -621,8 +604,6 @@ html{
     width: 100%;
     height: 100%;
     display: flex;
-    /* background-color: red; */
-    /* margin: auto; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -669,7 +650,6 @@ html{
     height: 250px ;
     display: grid;
     place-items: center;
-    /* background-color: blue; */
 }
 
 .our-menu-box  .crop .whole-wheat-box .images img{
@@ -752,12 +732,9 @@ html{
 .about-us .img-bread{
     width: 50%;
     height: 600px;
-    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: center;
-    /* display: grid;
-    place-items: center; */
 }
 
 .about-us .img-bread img{
@@ -768,7 +745,6 @@ html{
 .about-us .title-about-us{
     width: 50%;
     height: 600px;
-    /* background-color: red; */
 }
 
 
